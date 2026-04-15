@@ -9,6 +9,11 @@ const hero = () => {
                 Zharah SD Initiative Foundation is committed to improving lives through
                 education, support, and sustainable development.
             </p>
+
+            <button className="bg-green-600 text-white px-6 py-3 rounded-lg">
+                Donate Now
+            </button>
+
         </section>
     )
 }
