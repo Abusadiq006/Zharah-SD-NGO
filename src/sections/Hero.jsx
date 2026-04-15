@@ -13,9 +13,15 @@ const hero = () => {
       </p>
 
 
-            <button className="bg-green-600 text-white px-6 py-3 rounded-lg">
-                Donate Now
-            </button>
+            <div className="flex gap-4">
+        <button className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg">
+          Donate Now
+        </button>
+
+        <button className="border border-green-600 text-green-600 px-6 py-3 rounded-lg">
+          Learn More
+        </button>
+      </div>
 
         </section>
     )
