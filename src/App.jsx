@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Navbar from './components/Navbar'
 import Hero from './sections/Hero'
-import heroImg from './assets/hero.png'
+import About from './sections/About'
 import './App.css'
 
 function App() {
@@ -10,6 +10,7 @@ function App() {
     <div>
       <Navbar/>
       <Hero/>
+      <About/>
     </div>
   )
 }
