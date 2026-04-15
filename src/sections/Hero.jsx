@@ -6,10 +6,12 @@ const hero = () => {
         For A Better Future
       </h1>
 
-             <p className="max-w-xl text-gray-600 mb-6">
-                Zharah SD Initiative Foundation is committed to improving lives through
-                education, support, and sustainable development.
-            </p>
+             <p className="max-w-2xl text-gray-600 mb-8">
+        Zharah SD Initiative Foundation is dedicated to improving the lives of young women 
+        through education, hygiene awareness, healthcare support, and skill development 
+        programs that create lasting impact.
+      </p>
+
 
             <button className="bg-green-600 text-white px-6 py-3 rounded-lg">
                 Donate Now
