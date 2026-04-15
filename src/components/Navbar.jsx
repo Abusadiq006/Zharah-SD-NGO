@@ -11,6 +11,7 @@ const Navbar = () => {
         <li className="cursor-pointer">About</li>
         <li className="cursor-pointer">Projects</li>
         <li className="cursor-pointer">Donate</li>
+        <li className="cursor-pointer">Contact</li>
       </ul>
       </nav>
  )   
