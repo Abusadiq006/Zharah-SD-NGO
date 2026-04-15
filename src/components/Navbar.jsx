@@ -8,6 +8,7 @@ const Navbar = () => {
 
       <ul className="flex gap-6 text-gray-700">
         <li className="cursor-pointer">Home</li>
+        <li className="cursor-pointer">About</li>
       </ul>
       </nav>
  )   
