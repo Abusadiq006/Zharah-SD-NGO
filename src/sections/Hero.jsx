@@ -6,8 +6,9 @@ const Hero = ()=>{
           <span className="eyebrow">Community-led impact</span>
           <h1 className="hero-title">Empowering Young Women for a Better Future</h1>
           <p className="hero-copy">
-            Zharah SD Initiative Foundation is building a mission-driven platform for education,
-            hygiene awareness, healthcare support, and practical skill development.
+            Zharah SD Initiative Foundation is a non-profit organization dedicated to promoting
+            girl child education and empowerment in sub-Saharan Africa. 
+            Our mission is to provide access to quality education, healthcare, and economic opportunities for girls and women.
           </p>
 
           <div className="hero-actions">
