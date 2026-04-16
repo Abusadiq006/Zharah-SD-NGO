@@ -151,6 +151,15 @@
   border-color: rgba(22, 101, 52, 0.18);
 }
 
+.button{
+  padding:12px 24px;
+  border-radius:8px;
+  font-weight:600;
+  cursor:pointer;
+  border:none;
+  transition:0.3s;
+}
+
 .hero-card {
   padding: 2rem;
   border-radius: 28px;
