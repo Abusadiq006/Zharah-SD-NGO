@@ -4,7 +4,7 @@ const Hero = ()=>{
       <div className="container hero-grid">
         <div>
           <span className="eyebrow">Community-led impact</span>
-          <h1 className="hero-title">Empowering Young Women for a Better Future</h1>
+          <h1 className="hero-title"> Empowering Girls through Menstrual Hygiene Management in Northern Nigeria</h1>
           <p className="hero-copy">
             Zharah SD Initiative Foundation is a non-profit organization dedicated to promoting
             girl child education and empowerment in sub-Saharan Africa. 
