@@ -7,7 +7,7 @@ const programs = () => {
 
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
                  <div className="p-6 shadow rounded-lg">
-                    
+                    <h3 className="font-bold mb-2">Education</h3>
                  </div>
             </div>
 
