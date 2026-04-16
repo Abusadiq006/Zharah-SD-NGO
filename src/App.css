@@ -42,12 +42,9 @@
   color:#666;
 }
 
-.site-nav {
-  display: flex;
-  align-items: center;
-  gap: 1.25rem;
-  flex-wrap: wrap;
-  justify-content: flex-end;
+.site-nav{
+  display:flex;
+  gap:20px;
 }
 
 .site-nav a {
