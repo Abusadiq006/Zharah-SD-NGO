@@ -6,7 +6,9 @@ const programs = () => {
             </h2>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-                
+                 <div className="p-6 shadow rounded-lg">
+                    
+                 </div>
             </div>
 
          </section>
