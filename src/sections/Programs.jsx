@@ -20,7 +20,7 @@ const programs = () => {
                     </p>
 
                      <div className="p-6 shadow rounded-lg">
-                        
+                         <h3 className="font-bold mb-2">Healthcare</h3>
                      </div>
                  </div>
             </div>
