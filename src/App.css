@@ -31,11 +31,10 @@
   text-decoration: none;
 }
 
-.site-brand__name {
-  margin: 0;
-  font-size: 1.15rem;
-  font-weight: 800;
-  color: #14532d;
+.site-brand__name{
+  font-weight:700;
+  font-size:18px;
+  color:#111;
 }
 
 .site-brand__tagline {
