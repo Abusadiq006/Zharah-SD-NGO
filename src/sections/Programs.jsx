@@ -1,43 +1,39 @@
-const programs = () => {
-    return(
-         <section className="py-20 px-6 bg-gray-50 text-center">
-            <h2 className="text-3xl font-bold mb-10">
-                Our Programs
-            </h2>
+const Programs = () => {
+  return (
+    <section className="section" id="programs">
+      <div className="container">
+        <div className="section-header">
+          <h2 className="section-title">Core Programs</h2>
+          <p className="section-copy">
+            Your current content points to four main intervention areas. I kept those and fixed
+            the broken layout so each one appears as its own program card.
+          </p>
+        </div>
 
-            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-                 <div className="p-6 shadow rounded-lg">
-                    <h3 className="font-bold mb-2">Education</h3>
-                    <p className="text-gray-600 text-sm">
-                        Providing access to learning opportunities for young women.
-                    </p>
-                 </div>
+        <div className="program-grid">
+          <article className="program-card">
+            <h3>Education</h3>
+            <p>Providing access to learning opportunities, mentorship, and confidence-building for young women.</p>
+          </article>
 
-                 <div className="p-6 shadow rounded-lg">
-                    <h3 className="font-bold mb-2">Hygiene</h3>
-                    <p className="text-gray-600 text-sm">
-                        Promoting cleanliness and personal health awareness.
-                    </p>
+          <article className="program-card">
+            <h3>Hygiene</h3>
+            <p>Promoting cleanliness, menstrual health awareness, and personal wellness through community education.</p>
+          </article>
 
-                     <div className="p-6 shadow rounded-lg">
-                        <h3 className="font-bold mb-2">Healthcare</h3>
-                        <p className="text-gray-600 text-sm">
-                            Supporting access to basic healthcare services.
-                        </p>
-                     </div>
+          <article className="program-card">
+            <h3>Healthcare</h3>
+            <p>Supporting access to basic healthcare information, outreach, and referral-based assistance where needed.</p>
+          </article>
 
-                      <div className="p-6 shadow rounded-lg">
-                        <h3 className="font-bold mb-2">Skill Development</h3>
-                        <p className="text-gray-600 text-sm">
-                            Empowering youth with practical and income-generating skills.
-                        </p>
-                      </div>
-                 </div>
-            </div>
-
-         </section>
-
-    )
+          <article className="program-card">
+            <h3>Skill Development</h3>
+            <p>Equipping youth with practical, income-generating, and self-reliance skills that create lasting change.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+  )
 }
 
-export default programs
+export default Programs

@@ -1,20 +1,36 @@
 const About = () => {
-    return(
-        <section className="py-20 px-6 text-center">
+  return (
+    <section className="section section--soft" id="about">
+      <div className="container">
+        <div className="section-header">
+          <h2 className="section-title">Who You Are Building For</h2>
+          <p className="section-copy">
+            This project is shaping into a public-facing NGO website for Zharah SD Initiative
+            Foundation. Its purpose is to introduce the mission, explain the key focus areas,
+            and create clear pathways for support and community connection.
+          </p>
+        </div>
 
-            <h2 className="text-3xl font-bold mb-6">
-                Who We Are
-            </h2>
-
-            <p className="max-w-3xl mx-auto text-gray-600">
-                Zharah SD Initiative Foundation is a non-profit organization committed to 
-                empowering young women and youth through impactful programs focused on 
-                education, hygiene, healthcare, and skill acquisition. We believe that 
-                empowering one woman transforms entire communities.
+        <div className="about-grid">
+          <article className="info-card">
+            <h3>Mission</h3>
+            <p>
+              Support young women and youth with programs that improve dignity, health,
+              education, and long-term economic opportunity.
             </p>
+          </article>
 
-        </section>
-    )
+          <article className="info-card">
+            <h3>Vision</h3>
+            <p>
+              Build communities where empowered women can lead, thrive, and multiply impact
+              across families and future generations.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+  )
 }
 
 export default About

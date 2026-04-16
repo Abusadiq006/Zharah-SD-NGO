@@ -1,20 +1,22 @@
 const Navbar = () => {
- return(
-    <nav className="w-full flex justify-between items-center px-6 py-4 shadow-md">
-      
-      <h1 className="text-xl font-bold">
-        Zharah SD
-      </h1>
+  return (
+    <header className="site-header">
+      <div className="container site-header__inner">
+        <a className="site-brand" href="#home">
+          <span className="site-brand__name">Zharah SD Initiative Foundation</span>
+          <span className="site-brand__tagline">Empowering young women for a better future</span>
+        </a>
 
-      <ul className="flex gap-6 text-gray-700">
-        <li className="cursor-pointer">Home</li>
-        <li className="cursor-pointer">About</li>
-        <li className="cursor-pointer">Projects</li>
-        <li className="cursor-pointer">Donate</li>
-        <li className="cursor-pointer">Contact</li>
-      </ul>
-      </nav>
- )   
+        <nav className="site-nav" aria-label="Primary">
+          <a href="#home">Home</a>
+          <a href="#about">About</a>
+          <a href="#programs">Programs</a>
+          <a href="#contact">Contact</a>
+          <a href="#donate">Donate</a>
+        </nav>
+      </div>
+    </header>
+  )
 }
 
 export default Navbar
