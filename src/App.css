@@ -169,6 +169,12 @@
   background:#15803d;
 }
 
+.button--secondary{
+  background:transparent;
+  border:2px solid #16a34a;
+  color:#16a34a;
+}
+
 .hero-card {
   padding: 2rem;
   border-radius: 28px;
