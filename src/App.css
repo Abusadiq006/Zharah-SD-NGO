@@ -13,12 +13,9 @@
 }
 
 .site-header {
-  position: sticky;
-  top: 0;
-  z-index: 10;
-  backdrop-filter: blur(16px);
-  background: rgba(255, 255, 255, 0.88);
-  border-bottom: 1px solid rgba(22, 101, 52, 0.08);
+  width:100%;
+  background:#ffffff;
+  border-bottom:1px solid #eee;
 }
 
 .site-header__inner {
