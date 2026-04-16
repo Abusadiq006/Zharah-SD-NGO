@@ -160,6 +160,15 @@
   transition:0.3s;
 }
 
+.button--primary{
+  background:#16a34a;
+  color:#fff;
+}
+
+.button--primary:hover{
+  background:#15803d;
+}
+
 .hero-card {
   padding: 2rem;
   border-radius: 28px;

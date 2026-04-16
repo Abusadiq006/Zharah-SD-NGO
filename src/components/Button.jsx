@@ -3,7 +3,7 @@ const Button = ({children,variant='primary',...props})=>{
         <button 
             className={`button button--${variant}`} 
             {...props}
-        >
+        >   Donate Now
             {children}
         </button>
     )
