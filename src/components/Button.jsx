@@ -1,6 +1,11 @@
 const Button = ({children,variant='primary',...props})=>{
     return(
-        but
+        <button 
+            className={`button button--${variant}`} 
+            {...props}
+        >
+            {children}
+        </button>
     )
 }
 
