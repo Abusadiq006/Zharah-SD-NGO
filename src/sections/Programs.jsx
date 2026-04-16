@@ -20,7 +20,10 @@ const programs = () => {
                     </p>
 
                      <div className="p-6 shadow rounded-lg">
-                         <h3 className="font-bold mb-2">Healthcare</h3>
+                        <h3 className="font-bold mb-2">Healthcare</h3>
+                        <p className="text-gray-600 text-sm">
+                            Supporting access to basic healthcare services.
+                        </p>
                      </div>
                  </div>
             </div>
