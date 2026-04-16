@@ -27,7 +27,10 @@ const programs = () => {
                      </div>
 
                       <div className="p-6 shadow rounded-lg">
-                         <h3 className="font-bold mb-2">Skill Development</h3>
+                        <h3 className="font-bold mb-2">Skill Development</h3>
+                        <p className="text-gray-600 text-sm">
+                            Empowering youth with practical and income-generating skills.
+                        </p>
                       </div>
                  </div>
             </div>
