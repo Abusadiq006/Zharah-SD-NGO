@@ -3,6 +3,7 @@ import Hero from './sections/Hero'
 import About from './sections/About'
 import Programs from './sections/Programs'
 import Contact from './sections/Contact'
+import Button from './components/Button'
 import './App.css'
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Programs />
       <Contact />
+      <Button />
       <footer className="site-footer">
         <div className="container">
           <p>Zharah SD Initiative Foundation exists to empower young women through education, health, and practical skills.</p>
