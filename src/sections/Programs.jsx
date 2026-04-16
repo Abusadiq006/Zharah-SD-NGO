@@ -18,6 +18,10 @@ const programs = () => {
                     <p className="text-gray-600 text-sm">
                         Promoting cleanliness and personal health awareness.
                     </p>
+
+                     <div className="p-6 shadow rounded-lg">
+                        
+                     </div>
                  </div>
             </div>
 
