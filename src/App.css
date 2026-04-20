@@ -291,15 +291,75 @@
     grid-template-columns: 1fr;
   }
 
-  .site-header__inner {
-    align-items: flex-start;
-    flex-direction: column;
-  }
+  /* Header container */
+.site-header{
+  width:100%;
+  background:#fff;
+  border-bottom:1px solid #eee;
+}
 
-  .site-nav {
-    justify-content: flex-start;
-    gap: 0.9rem;
-  }
+/* Flex alignment */
+.site-header__inner{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:14px 0;
+}
+
+/* Brand layout */
+.site-brand{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  text-decoration:none;
+}
+
+/* Logo fix (VERY IMPORTANT) */
+.site-logo{
+  width:45px;
+  height:45px;
+  object-fit:contain;
+}
+
+/* Text beside logo */
+.site-brand__text{
+  display:flex;
+  flex-direction:column;
+  line-height:1.2;
+}
+
+.site-brand__name{
+  font-size:16px;
+  font-weight:700;
+  color:#111;
+}
+
+.site-brand__tagline{
+  font-size:11px;
+  color:#666;
+}
+
+/* Navigation */
+.site-nav{
+  display:flex;
+  align-items:center;
+  gap:24px;
+}
+
+.site-nav a{
+  text-decoration:none;
+  color:#333;
+  font-weight:500;
+  font-size:14px;
+}
+
+/* Donate button */
+.nav-cta{
+  background:#16a34a;
+  color:#fff !important;
+  padding:8px 16px;
+  border-radius:6px;
+}
 
   .hero-section {
     padding-top: 3.5rem;
