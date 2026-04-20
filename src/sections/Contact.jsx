@@ -42,6 +42,10 @@ const Contact = () => {
             <a href="#" target='_blank' rel='noreferrer'>
               <FaWhatsapp />
             </a>
+
+            <a href="#" target='_blank' rel='noreferrer'>
+              <FaFacebook />
+            </a>
           </div>
         </div>
       </div>
