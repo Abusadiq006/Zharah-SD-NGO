@@ -12,9 +12,7 @@ const Contact = () => {
           <article className="contact-card">
             <FaMapMarkerAlt className="contact-icon"/>
             <h3>Address</h3>
-            <p id="donate">
-              Support our programs and help empower communities.
-            </p>
+            <p>Kaduna, Nigeria</p>
           </article>
 
           <article className="contact-card">
