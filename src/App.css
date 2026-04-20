@@ -258,11 +258,15 @@
 }
 
 .social-icons a:nth-child(2):hover{
-  color:#25b6d3; /* WhatsApp */
+  color:#25b6d3; /* Twitter */
 }
 
 .social-icons a:nth-child(3):hover{
   color:#25D366; /* WhatsApp */
+}
+
+.social-icons a:nth-child(4):hover{
+  color:#2536d3; /* WhatsApp */
 }
 
 .about-grid,
