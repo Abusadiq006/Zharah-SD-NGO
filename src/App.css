@@ -225,6 +225,11 @@
   color: #10281a;
 }
 
+.social-section {
+  margin-top: 40px;
+  text-align: center;
+}
+
 .about-grid,
 .contact-grid {
   display: grid;
