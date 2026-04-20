@@ -22,7 +22,8 @@ const Contact = () => {
           </article>
 
           <article className='contact-card'>
-            <FaPhone />
+            <FaPhone className='contact-icon'/>
+            <h3>Phone</h3>
           </article>
         </div>
       </div>
