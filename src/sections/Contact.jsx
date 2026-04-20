@@ -29,7 +29,7 @@ const Contact = () => {
           </article>
         </div>
         <div className="social-section">
-          
+          <h3 className='social-title'>Follow Us</h3>
         </div>
       </div>
     </section>
