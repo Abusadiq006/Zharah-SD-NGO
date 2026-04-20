@@ -230,6 +230,12 @@
   text-align: center;
 }
 
+.social-title{
+  font-size:18px;
+  font-weight:600;
+  margin-bottom:15px;
+}
+
 .about-grid,
 .contact-grid {
   display: grid;
