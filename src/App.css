@@ -257,6 +257,10 @@
   color:#E1306C; /* Instagram */
 }
 
+.social-icons a:nth-child(2):hover{
+  color:#25D366; /* WhatsApp */
+}
+
 .about-grid,
 .contact-grid {
   display: grid;
