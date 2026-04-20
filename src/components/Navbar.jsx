@@ -3,7 +3,7 @@ const Navbar = () => {
     <header className="site-header">
       <div className="container site-header__inner">
         <a className="site-brand" href="#home">
-          <span className="site-brand__name">Zharah SD Initiative Foundation</span>
+          <span className="site-brand__name"></span>
           <span className="site-brand__tagline">Empowering young women for a better future</span>
         </a>
 
