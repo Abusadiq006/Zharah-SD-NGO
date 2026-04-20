@@ -253,6 +253,10 @@
   transform:scale(1.2);
 }
 
+.social-icons a:nth-child(1):hover{
+  color:#E1306C; /* Instagram */
+}
+
 .about-grid,
 .contact-grid {
   display: grid;
