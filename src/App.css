@@ -256,6 +256,11 @@
   margin-bottom: 10px;
 }
 
+.contact-card:hover{
+  transform:translateY(-5px);
+  transition:0.3s;
+}
+
 .program-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
