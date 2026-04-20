@@ -16,7 +16,8 @@ const Contact = () => {
           </article>
 
           <article className="contact-card">
-            <h3>Next Step</h3>
+            <FaEnvelope className="contact-icon" />
+            <h3>Email</h3>
             <p>
               Add your real contact info and donation links here.
             </p>
