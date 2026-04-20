@@ -18,9 +18,11 @@ const Contact = () => {
           <article className="contact-card">
             <FaEnvelope className="contact-icon" />
             <h3>Email</h3>
-            <p>
-              Add your real contact info and donation links here.
-            </p>
+            <p></p>
+          </article>
+
+          <article className='contact-card'>
+            <FaPhone />
           </article>
         </div>
       </div>
