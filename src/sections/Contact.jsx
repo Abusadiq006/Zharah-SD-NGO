@@ -38,6 +38,10 @@ const Contact = () => {
             <a href="#" target='_blank' rel='noreferrer'>
               <FaTwitter />
             </a>
+
+            <a href="#" target='_blank' rel='noreferrer'>
+              <FaWhatsapp />
+            </a>
           </div>
         </div>
       </div>
