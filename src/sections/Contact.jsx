@@ -1,4 +1,4 @@
-import { FaEnvelope, FaPhone, FaMapMarkerAlt } from 'react-icons/fa'
+import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaTwitter } from 'react-icons/fa'
 import { FaInstagram, FaWhatsapp, FaFacebook } from 'react-icons/fa'
 
 const Contact = () => {
@@ -34,6 +34,9 @@ const Contact = () => {
           <div className='social-icons'>
             <a href="#" target='_blank' rel='noreferrer'>
               <FaInstagram />
+            </a>
+            <a href="#" target='_blank' rel='noreferrer'>
+              <FaTwitter />
             </a>
           </div>
         </div>
