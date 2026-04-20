@@ -258,6 +258,10 @@
 }
 
 .social-icons a:nth-child(2):hover{
+  color:#25b6d3; /* WhatsApp */
+}
+
+.social-icons a:nth-child(3):hover{
   color:#25D366; /* WhatsApp */
 }
 
