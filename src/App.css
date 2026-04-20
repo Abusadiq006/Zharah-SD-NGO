@@ -248,6 +248,11 @@
   transition:0.3s;
 }
 
+/* Hover colors (important for branding feel) */
+.social-icons a:hover{
+  transform:scale(1.2);
+}
+
 .about-grid,
 .contact-grid {
   display: grid;
