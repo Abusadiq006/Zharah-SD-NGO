@@ -30,6 +30,10 @@ const Contact = () => {
         </div>
         <div className="social-section">
           <h3 className='social-title'>Follow Us</h3>
+
+          <div className='social-icons'>
+            
+          </div>
         </div>
       </div>
     </section>
