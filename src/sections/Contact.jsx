@@ -11,7 +11,7 @@ const Contact = () => {
         <div className="contact-grid">
           <article className="contact-card">
             <FaMapMarkerAlt className="contact-icon"/>
-            <h3>Get Involved</h3>
+            <h3>Address</h3>
             <p id="donate">
               Support our programs and help empower communities.
             </p>
