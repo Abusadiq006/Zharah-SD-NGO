@@ -32,7 +32,9 @@ const Contact = () => {
           <h3 className='social-title'>Follow Us</h3>
 
           <div className='social-icons'>
-            <a href="#" target='_blank' rel='noreferrer'></a>
+            <a href="#" target='_blank' rel='noreferrer'>
+              <FaInstagram />
+            </a>
           </div>
         </div>
       </div>
