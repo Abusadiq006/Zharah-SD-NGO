@@ -1,4 +1,6 @@
-const Contact = ()=>{
+import { FaEnvelope, FaPhone, FaMapMarkerAlt } from 'react-icons/fa'
+
+const Contact = () => {
   return(
     <section className="section section--soft" id="contact">
       <div className="container">
