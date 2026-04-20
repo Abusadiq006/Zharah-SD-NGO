@@ -1,4 +1,5 @@
 import { FaEnvelope, FaPhone, FaMapMarkerAlt } from 'react-icons/fa'
+import { FaInstagram, FaWhatsapp, FaFacebook } from 'react-icons/fa'
 
 const Contact = () => {
   return(
@@ -26,6 +27,9 @@ const Contact = () => {
             <h3>Phone</h3>
             <p></p>
           </article>
+        </div>
+        <div className="social-section">
+          
         </div>
       </div>
     </section>
