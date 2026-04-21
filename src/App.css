@@ -372,8 +372,8 @@
 
 /* Logo fix (VERY IMPORTANT) */
 .site-logo{
-  width:45px;
-  height:45px;
+  width:65px;
+  height:55px;
   object-fit:contain;
 }
 
