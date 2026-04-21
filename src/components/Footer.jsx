@@ -6,7 +6,9 @@ const Footer = () => {
             <div className='container footer-grid'>
 
                 {/* Brand */}
-                <div className='footer-brand'></div>
+                <div className='footer-brand'>
+                    <h3>Zharah SD Initiative Foundation</h3>
+                </div>
             </div>
         </footer>
     )
