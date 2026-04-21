@@ -16,7 +16,7 @@ const Footer = () => {
 
                 {/* Bottom */}
                 <div className='footer-bottom'>
-                    
+                    <p>© 2026 Zharah SD Initiative Foundation. All rights reserved.</p>
                 </div>
             </div>
         </footer>
