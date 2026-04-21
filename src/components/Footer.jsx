@@ -16,7 +16,7 @@ const Footer = () => {
 
                 {/* Links */}
                 <div className='footer-links'>
-                    
+                    <h4>Quick Links</h4>
                 </div>
             </div>
         </footer>
