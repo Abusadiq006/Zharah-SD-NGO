@@ -13,6 +13,8 @@ const Footer = () => {
                         hygiene awareness, and skill development.
                     </p>
                 </div>
+
+                {/* Links */}
             </div>
         </footer>
     )
