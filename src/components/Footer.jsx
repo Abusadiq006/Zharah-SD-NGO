@@ -14,9 +14,9 @@ const Footer = () => {
                     </p>
                 </div>
 
-                {/* Links */}
-                <div className='footer-links'>
-                    <h4>Quick Links</h4>
+                {/* Contact */}
+                <div className='footer-contact'>
+                    
                 </div>
             </div>
         </footer>
