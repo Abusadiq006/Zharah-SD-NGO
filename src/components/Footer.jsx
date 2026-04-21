@@ -8,6 +8,10 @@ const Footer = () => {
                 {/* Brand */}
                 <div className='footer-brand'>
                     <h3>Zharah SD Initiative Foundation</h3>
+                    <p>
+                        Empowering young women through education, healthcare,
+                        hygiene awareness, and skill development.
+                    </p>
                 </div>
             </div>
         </footer>
