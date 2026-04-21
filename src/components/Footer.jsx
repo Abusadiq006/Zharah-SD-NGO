@@ -15,6 +15,9 @@ const Footer = () => {
                 </div>
 
                 {/* Links */}
+                <div className='footer-links'>
+                    
+                </div>
             </div>
         </footer>
     )
