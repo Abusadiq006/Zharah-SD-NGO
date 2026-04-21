@@ -17,11 +17,7 @@ function App() {
       <Contact />
       <Button />
       <Footer />
-      <footer className="site-footer">
-        <div className="container">
-          <p>Zharah SD Initiative Foundation exists to empower young women through education, health, and practical skills.</p>
-        </div>
-      </footer>
+     
     </div>
   )
 }
