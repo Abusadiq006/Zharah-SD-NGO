@@ -25,7 +25,7 @@ const Contact = () => {
           <article className='contact-card'>
             <FaPhone className='contact-icon'/>
             <h3>Phone</h3>
-            <p></p>
+            <p>08025130073</p>
           </article>
         </div>
         <div className="social-section">
