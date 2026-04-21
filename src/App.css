@@ -461,5 +461,6 @@
 
 /* Text */
 .footer p {
-  
+  color: #ccc;
+  font-size: 1;
 }
