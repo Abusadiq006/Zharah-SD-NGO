@@ -14,10 +14,8 @@ const Footer = () => {
                     </p>
                 </div>
 
-                {/* Contact */}
-                <div className='footer-contact'>
-                    
-                </div>
+                {/* Bottom */}
+                
             </div>
         </footer>
     )
