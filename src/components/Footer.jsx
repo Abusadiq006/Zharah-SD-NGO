@@ -2,7 +2,9 @@ import { FaInstagram, FaWhatsapp, FaFacebook } from 'react-icons/fa'
 
 const Footer = () => {
     return(
-        <footer></footer>
+        <footer className='footer'>
+            <div className='container footer-grid'></div>
+        </footer>
     )
 }
 export default Footer
